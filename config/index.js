@@ -19,7 +19,9 @@ export const config = {
       {"name": "老婆", "year": "1994", "date": "10-05", "type": 'new'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "2020-07-22"
+    loveDate: "2020-07-22",
+    // 结婚纪念日
+    marryDate:"2020-07-22"
     }
 
 // {{date.DATA}}  
